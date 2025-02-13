@@ -11,14 +11,14 @@ a:active {
 }
 article {
     grid-area: 3 / 1 / span 1 / span 2;
-    border: 1px dashed white;
+    /*border: 1px dashed white;*/
     
     
     font-weight: bold;
 }
 body {
     background-color: #0d1117;
-    border: 1px dashed white;
+    /*border: 1px dashed white;*/
     font-family:Arial, Helvetica, sans-serif;
     color: #ddd;
     width: 90%;
@@ -30,7 +30,7 @@ body {
 }
 footer {
     grid-area: 4 / 1 / span 1 / span 2;
-    border: 1px dashed white;
+    /*border: 1px dashed white;*/
 }
 h1 {
     text-align: center;
@@ -47,7 +47,7 @@ h2 {
 }
 header {
     grid-area: 1 / 1 / span 1 / span 2;
-    border: 1px dashed white;
+    /*border: 1px dashed white;*/
 }
 
 main {
@@ -89,11 +89,11 @@ li {
 }
 #current {
     grid-area: 1 / 2 / 2 / 3;
-    border: 1px dashed white;
+    /*border: 1px dashed white;*/
 }
 #ghw_links {
     grid-area: 1 / 1 / 2 / 2;
-    border: 1px dashed white;
+    /*border: 1px dashed white;*/
     font-weight: bold;
 }
 #logo {
