@@ -83,12 +83,15 @@ li {
     display: block;
     margin: 1em auto;
 }
+/*#dailies {
+    display: block;
+}
 #dailies img{
     float: left;
 }
 #dailies ul {
     float: right;
-}
+}*/
 #page_container {
     display: grid;
     grid-template: 200px 1fr 1fr 100px / 100px 1fr;
@@ -116,13 +119,16 @@ li {
     float: right;
     height: 150px;
     width: auto;
+    position: relative;
+    top: 175px;
 }
 #social {
 
 }
-#stephen img {
-    float: left;
+/*#stephen img {
+    float: right;
 }
 #stephen ul {
     float: left;
-}
+    clear: left;
+}*/
