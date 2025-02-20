@@ -28,6 +28,8 @@ body {
     margin: 0 auto;
     background-image: url('./images/GHW_background1.jpg');
     background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100%;
     z-index: -1;
 }
 footer {
